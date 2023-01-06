@@ -1,6 +1,6 @@
 # 💫 About Me:
-🎓 Majoring in Software Engineering
-👨‍💻 Front-end Developer
+- 🎓 Majoring in Software Engineering
+- 👨‍💻 Front-end Developer
 
 
 # 💻 Tech Stack:
