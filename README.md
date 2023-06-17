@@ -30,8 +30,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arthurmousinho/arthurmousinho/output/snake.svg" alt="Snake animation" />
-
-###
